@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=krishnas.com.np&style=for-the-badge&url=https%3A%2F%2Fkrishnas.com.np)](https://krishnas.com.np)
 
-## Coder | Developer | Friend 
+## Coder | Instructor | Developer | Friend 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to deep into ReactNative Mobile Apps and Blockchain
@@ -34,10 +34,19 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-<br />
-<br />
+
+---
 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Krishnas GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=krixnaas&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://krishnas.com.np
 [twitter]: https://twitter.com/krixnaas1
