@@ -41,12 +41,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Krishnas GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=krixnaas&show_icons=true&hide_border=true" />
+ [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krixnaas)](https://github.com/krixnaas/github-readme-stats)
+
 
 </details>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://krishnas.com.np
 [twitter]: https://twitter.com/krixnaas1
