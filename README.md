@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Web3.0 and Solidity 🤣
 - 👯 I’m looking to deep into ReactNative Mobile Apps and Blockchain
-- 🥅 2021 Goals: is to Lunch one Product in Australian Market
+- 🥅 2022 Goals: is to Lunch one Product in Australian Market
 - ⚡ Fun fact: Fan of Animation and SciFi Movies
 
 ### Connect with me:
