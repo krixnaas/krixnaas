@@ -4,9 +4,9 @@
 
 ## Coder | Instructor | Developer | Friend 
 
-- 🌱 I’m currently learning Flutter and Solidity 🤣
+- 🌱 I’m currently learning Flutter 🤣
 - 👯 I’m looking to deep into Flutter Mobile Apps and Blockchain
-- 🥅 2023 Goals: is to Lunch one Product in Australian Market
+- 🥅 2024 Goals: is to Lunch one Product in Australian Market
 - ⚡ Fun fact: Fan of Animation and SciFi Movies
 
 ### Connect with me:
